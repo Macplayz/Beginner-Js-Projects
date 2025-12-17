@@ -1,4 +1,4 @@
-# 🌐 Vanilla JS Frontend Project Portfolio
+# Vanilla JS Frontend Project Portfolio
 
 <p align="center">
 </p>
